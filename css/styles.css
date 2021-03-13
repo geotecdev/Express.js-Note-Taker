@@ -76,25 +76,25 @@ cursor: pointer;
     background-color: ghostwhite;
     color: darkslategray;
     border: darkslategray solid 1px;
-    float: auto;
+    float: auto;    
 }
 
 .noteSummary {    
     font-size: 18px;
     float: left; 
+    margin-top: 25px;
 }
 
 .deleteBtn {
-    height: 50px;
-    width: 60px;
+    height: 30px;
+    width: 70px;
     float: right;
-    border: darkslategray solid 1px;
+    background-color: ghostwhite;
+    color: red;
+    border: darkslategray groove 1px;
+    margin-top: 25px;
 }
 
 /* margin: 0px 0px 0px 130px;
    border: darkslategray solid 1px;
 */
-
-.noteSection {
-    
-}
